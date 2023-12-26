@@ -13,7 +13,7 @@ export default function LoginScreen({ navigation }) {
 
     return (
         <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-            <Icon name="applemusic" size={150} color="black" />
+            <Image source={require('../assets/music-app.png')} style={{ width: 200, height: 200 }} />
             <TextInput
                 placeholder="Username"
                 value={username}

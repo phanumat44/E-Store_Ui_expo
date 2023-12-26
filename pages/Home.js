@@ -90,12 +90,11 @@ export default function Home() {
                     <View style={{ flex: 1, alignItems: 'center', flexDirection: "row", justifyContent: "space-between" }}>
                         <Icon2 name="menu" padding={2} size={50} color="black" />
                         <TouchableOpacity onPress={() => fetchDataFromAPI()}>
-                            <Image style={styles.pfp} source={require('../assets/pfp.jpg')} />
+                            <Image style={styles.pfp} source={require('../assets/pfp.jpeg')} />
                         </TouchableOpacity>
                     </View>
                 </View>
                 <View style={[{ flex: 1, paddingHorizontal: 5 }]}>
-                    <Text>Hi, Suranaree</Text>
                     <Text style={{ fontSize: 18, fontWeight: "bold" }}>Choose your favorite album</Text>
                 </View>
                 <View style={[{ flex: 1, justifyContent: 'center', alignItems: 'center' }]}>
