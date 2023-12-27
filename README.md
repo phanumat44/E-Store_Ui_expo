@@ -12,7 +12,7 @@
 <img src="/screenshot/2.png" alt="Screenshot 2" width="300">
 
 ### Screenshot 3: [Description of Screenshot 3]
-<img src="/screenshot3.png" alt="Screenshot 3" width="300">
+<img src="/screenshot/3.png" alt="Screenshot 3" width="300">
 
 ### Screenshot 4: [Description of Screenshot 4]
 <img src="/screenshot/4.png" alt="Screenshot 4" width="300">
