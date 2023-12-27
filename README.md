@@ -6,7 +6,7 @@
 ## Screenshots
 
 ### Screenshot 1: [Description of Screenshot 1]
-<img src="/screenshot/5.png" alt="Screenshot 1" width="300">
+<img src="/screenshot/1.png" alt="Screenshot 1" width="300">
 
 ### Screenshot 2: [Description of Screenshot 2]
 <img src="/screenshot/2.png" alt="Screenshot 2" width="300">
