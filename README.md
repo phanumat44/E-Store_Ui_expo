@@ -6,19 +6,19 @@
 ## Screenshots
 
 ### Screenshot 1: [Description of Screenshot 1]
-![Screenshot 1](screenshot/1.png)
+<img src="/screenshot/5.png" alt="Screenshot 1" width="300">
 
 ### Screenshot 2: [Description of Screenshot 2]
-![Screenshot 2](screenshot/2.png)
+<img src="/screenshot/2.png" alt="Screenshot 2" width="300">
 
 ### Screenshot 3: [Description of Screenshot 3]
-![Screenshot 3](screenshot/3.png)
+<img src="/screenshot3.png" alt="Screenshot 3" width="300">
 
 ### Screenshot 4: [Description of Screenshot 4]
-![Screenshot 4](screenshot/4.png)
+<img src="/screenshot/4.png" alt="Screenshot 4" width="300">
 
 ### Screenshot 5: [Description of Screenshot 5]
-![Screenshot 5](screenshot/5.png)
+<img src="/screenshot/5.png" alt="Screenshot 5" width="300">
 
 ## Installation
 [Provide instructions on how to install your app, including any dependencies or prerequisites.]
