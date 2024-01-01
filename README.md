@@ -1,7 +1,7 @@
 # E-Store_Ui Design
 
 ## Description
-[Include a brief overview of your app here. What problem does it solve? What are its main features?]
+Exammple E-commerce app design using expo 
 
 ## Screenshots
 
