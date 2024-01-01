@@ -21,19 +21,8 @@
 <img src="/screenshot/5.png" alt="Screenshot 5" width="300">
 
 ## Installation
-[Provide instructions on how to install your app, including any dependencies or prerequisites.]
+```properties
+npm run build
+``` 
 
-## Usage
-[Explain how to use your app. Include any necessary setup steps or configurations.]
 
-## Contributing
-[Include guidelines for contributors if you want others to contribute to your project.]
-
-## License
-[Specify the license under which your app is distributed.]
-
-## Support
-[Provide contact information or links for users to get support or report issues.]
-
-## Acknowledgements
-[Mention and thank any contributors, libraries, or resources that you used or were inspired by while building your app.]
